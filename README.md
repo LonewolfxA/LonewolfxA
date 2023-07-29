@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anshal Agarwal
-- 👀 I’m interested in progeamming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on projects related with java and stuff that can make my skills reach another potential
 - 📫 How to reach me anshalagarwal03@gmail.com
